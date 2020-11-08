@@ -2,7 +2,7 @@
 <html>
 <meta charset="utf-8">
 
-  <title>HackNJIT 2020 Octocat</title>
+  ## HackNJIT 2020 Octocat
   <meta name="description" content="a simple octocat">
   <meta name="author" content="Sreya">
 
@@ -11,7 +11,6 @@
 </head>
 
 <body style="background-color:black;">
-  <script src="js/scripts.js"></script>
   <a href="https://imgur.com/eVDcYl9"><img src="https://i.imgur.com/eVDcYl9.png" title="source: imgur.com" /></a>
 </body>
 </html>
