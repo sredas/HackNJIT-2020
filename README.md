@@ -6,8 +6,6 @@
   <meta name="description" content="a simple octocat">
   <meta name="author" content="Sreya">
 
-  <link rel="stylesheet" href="css/styles.css?v=1.0">
-
 </head>
 
 <body style="background-color:black;">
